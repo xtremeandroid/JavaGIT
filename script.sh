@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo 'This is Ayush'
+echo 'This is Shell Script Program'
